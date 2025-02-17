@@ -129,3 +129,8 @@ This Spring AI Chat Bot project showcases the power and flexibility of Spring AI
 We encourage you to explore the code, experiment with different AI models, and extend the functionality to suit your specific needs. If you have any questions or run into issues, please don't hesitate to open an issue in the repository.
 
 Happy coding, and enjoy building intelligent, responsive chat applications with Spring AI!
+
+```bash
+# change the remote origin to your own repository
+git remote set-url origin git@github.com:luketn/spring-ai-streaming-example.git
+```
